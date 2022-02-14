@@ -1,3 +1,15 @@
+A GitHub repos search tool that finds users and their repos and some additional info with the help of GitHub's API (rest version 3).
+Written in React, HTML, CSS with no additional libraries, tools or frameworks except Axios.
+
+**_commando_**
+"npm start" to get things going.
+**_commando_**
+
+How to use the tool (called GitHub Repos):
+You search for a GitHub user with the input field and after clicking the button named "Search" you find (a user if it exists and then) the users repos in a column with rows to the left and some more detailed info in a column with rows to the right after clicking a specific repo.
+The rows/tabs "Homepage" and "Description" show even more info (if available) when you hover the mouse over them.
+Enjoy;)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
